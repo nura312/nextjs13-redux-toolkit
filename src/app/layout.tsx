@@ -1,4 +1,5 @@
-// import "./globals.css";
+import "./globals.css";
+import "antd/dist/reset.css";
 import { Providers } from "@/redux/provider";
 
 export const metadata = {
